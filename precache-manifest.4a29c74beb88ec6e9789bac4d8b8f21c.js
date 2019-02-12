@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "ec230cebd5b0d802f3bd",
-    "url": "/terningspillet/static/js/main.ec230ceb.chunk.js"
+    "revision": "ccbbf6e1419311177ab8",
+    "url": "/terningspillet/static/js/main.ccbbf6e1.chunk.js"
   },
   {
     "revision": "cd7bfd4816f4f40d8ac9",
@@ -12,7 +12,7 @@ self.__precacheManifest = [
     "url": "/terningspillet/static/js/2.f0118d36.chunk.js"
   },
   {
-    "revision": "ecd419137d1cdb33e9af9ba7094003d4",
+    "revision": "0b5660076b6f8735073bc702b5c51750",
     "url": "/terningspillet/index.html"
   }
 ];
