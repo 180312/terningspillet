@@ -12,7 +12,8 @@ class DiceCup extends React.Component {
     diceOneValue: 0,
     diceOneImg: Dice_1,
     diceTwoValue: 0,
-    diceTwoImg: Dice_1
+    diceTwoImg: Dice_1,
+    name: this.props.player
   };
 
   rollDice = () => {
@@ -47,6 +48,7 @@ class DiceCup extends React.Component {
     }
   };
   render() {
+    this.props.sum(this.state);
     return (
       <div>
         <h1>{this.props.player}</h1>
