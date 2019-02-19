@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/terningspillet/precache-manifest.4a29c74beb88ec6e9789bac4d8b8f21c.js"
+  "/terningspillet/precache-manifest.d633196ad7b619541bcd62931415436a.js"
 );
 
 workbox.clientsClaim();
